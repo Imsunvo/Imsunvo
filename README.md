@@ -1,4 +1,4 @@
-### 很高兴认识你 👋
+### Learn more here :)
 
 <!--
 **Imsunvo/imsunvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
